@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="birthdayMessage">Happy Birthday, Abdullah!</string>
+    <string name="birthday_tree">birthdaytree</string>
+    <string name="signature_text">From Aderemi.</string>
+    <string name="birthday_wisher">From Aderemi.</string>
+</resources>
